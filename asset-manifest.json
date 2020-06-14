@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Todo_App_React_MaterialUi/static/css/main.ff41b3c8.chunk.css",
+    "main.js": "/Todo_App_React_MaterialUi/static/js/main.9cfee74b.chunk.js",
+    "main.js.map": "/Todo_App_React_MaterialUi/static/js/main.9cfee74b.chunk.js.map",
+    "runtime-main.js": "/Todo_App_React_MaterialUi/static/js/runtime-main.8b155e12.js",
+    "runtime-main.js.map": "/Todo_App_React_MaterialUi/static/js/runtime-main.8b155e12.js.map",
+    "static/js/2.289cd482.chunk.js": "/Todo_App_React_MaterialUi/static/js/2.289cd482.chunk.js",
+    "static/js/2.289cd482.chunk.js.map": "/Todo_App_React_MaterialUi/static/js/2.289cd482.chunk.js.map",
+    "index.html": "/Todo_App_React_MaterialUi/index.html",
+    "precache-manifest.670a9d2e5122feba36f8216a790a0682.js": "/Todo_App_React_MaterialUi/precache-manifest.670a9d2e5122feba36f8216a790a0682.js",
+    "service-worker.js": "/Todo_App_React_MaterialUi/service-worker.js",
+    "static/css/main.ff41b3c8.chunk.css.map": "/Todo_App_React_MaterialUi/static/css/main.ff41b3c8.chunk.css.map",
+    "static/js/2.289cd482.chunk.js.LICENSE.txt": "/Todo_App_React_MaterialUi/static/js/2.289cd482.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b155e12.js",
+    "static/js/2.289cd482.chunk.js",
+    "static/css/main.ff41b3c8.chunk.css",
+    "static/js/main.9cfee74b.chunk.js"
+  ]
+}
